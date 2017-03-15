@@ -69,6 +69,7 @@
         <framework src="libz.tbd" />
         <framework src="libsqlite3.0.tbd" />
         <framework src="libstdc++.tbd" />
+        <framework src="CoreMotion.framework" />
 
         <resource-file src="sdk/ios/lib/Channels/Alipay/AlipaySDK.bundle"/>
         <framework src="sdk/ios/lib/Channels/Alipay/AlipaySDK.framework" custom="true"/>
